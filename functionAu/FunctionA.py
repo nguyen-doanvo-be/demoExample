@@ -1,0 +1,1 @@
+print('You not allow')
